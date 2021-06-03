@@ -1,2 +1,2 @@
 # CountingSite
-##Hello, tnks for being patient
+## Hello, tnks for being patient
